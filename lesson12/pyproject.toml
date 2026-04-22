@@ -1,0 +1,7 @@
+[project]
+name = "lesson12"
+version = "0.1.0"
+description = "這是lesson12上課用"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
