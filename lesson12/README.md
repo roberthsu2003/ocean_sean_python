@@ -6,6 +6,9 @@
 ```python
 def say_hello():
 	print("Hello, Python!")
+    print("Hello, Python!")
+    print("第2次修改")
+    print("第3次修改")
 
 say_hello()
 ```
